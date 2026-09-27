@@ -1,0 +1,4 @@
+level,model,MAE,RMSE,R2
+"Level 5: Neural Net (tabular, Level-4 features)",Feedforward NN,0.024193872985748616,0.03629616649009512,0.9684909742817364
+Level 5: Sequence model (own + neighbor lag sequence),LSTM,0.03050433290095906,0.04509057181525948,0.9513721639683109
+Level 5: Sequence model (own + neighbor lag sequence),GRU,0.030112141760865407,0.04451798766833556,0.9525993270273453
